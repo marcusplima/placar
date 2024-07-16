@@ -1,0 +1,2 @@
+# placar
+Scoreboard in GODOT
